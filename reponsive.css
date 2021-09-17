@@ -1,0 +1,900 @@
+@media(max-width: 1000px){
+
+	.logo{
+		width: 27%;
+		float: left;
+	}
+	.menu{
+		width: 68%;
+		margin-top: 32px;
+	}
+	.homeslider{
+		width:100%;
+		
+	}
+	ul.mainmenuitem li{
+	padding-right: 25px;
+	}
+
+
+	button.slidercontactbtn {
+		width: 22%;
+		text-align: center;
+		padding: 10px 10px;
+		font-size: 15px;
+	}
+	.slidercontant h1{
+		width: 100%;
+		font-size: 40px;
+	}
+	.topbarimg{
+	display: none;
+	}
+	.servicewrapper{
+		margin-bottom: -5px;
+		width:100%;
+	}
+	
+	.coursetitle{
+		margin-bottom: 50px;
+		width: 25%;
+	}
+	
+	.slidercontant h1 span {
+		width: 82%;
+		line-height: 55px;
+	}
+	.container{
+		width: 80%;
+	}
+		
+	.slidercontant p {
+		font-size: 20px;
+		width: 90%;
+		line-height: 36px;
+	}
+		
+	.servicewrapper span {width: 100%;font-size: 18px;}
+
+	.servicewrapper h2 {
+		font-size: 33px;
+		font-weight: 600;
+	}
+
+	.servicebox h3 {
+		font-weight: 500;
+		font-size: 27px;
+	}
+
+	.servicebox p {
+		font-size: 15px;
+	}
+
+	.service img {width: 28%;max-width: 100%;position: absolute;top: -11%;}
+
+	.courses img {
+		max-width: 100%;
+		width: 100%;
+	}
+		
+	.recentiteam {
+		margin-bottom: 0px;
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		align-content: space-around;
+		justify-content: space-around;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+
+	.recentiteam img {
+		float: left;
+		max-width: 45%;
+	}
+		
+	.recentworkmenu {
+		width: 100%;
+	}
+
+	ul.recentworkmenuiteam {
+		width: 95%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	
+
+
+	.projectmind {
+		line-height: 50px;
+		padding: 30px;
+		height: auto;
+		width: 100%;
+	}
+
+	.projectimg {
+		display: none;
+	}
+
+	.projectmind h2 {
+		width: 98%;
+		font-weight: 600;
+		padding-right: 30px;
+		margin-bottom: 30px;
+		font-size: 40px;
+	}
+
+	.projectmind p {
+		width: 88%;
+		line-height: 35px;
+		font-size: 18px;
+		font-weight: 500;
+		margin: 0;
+		padding: 0;
+	}
+
+	button.projectmindbtn {
+		width: 19%;
+		font-size: 14px;
+		padding: 6px 13px;
+		text-align: center;
+		margin: 35px 0px;
+	}
+
+	.projectmindwrapper {
+		width: 100%;
+	}
+		
+	.clientrevew {
+		width: 100%;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.clientrevewiteam {
+		width: 38%;
+		float: left;
+		padding: 20px;
+		margin: 19px;
+		text-align: center;
+	}
+		
+
+	.blogswrapper:last-child{
+		display:none;
+	}
+	.blogswrapper {
+		float: right;
+		width: 41%;
+		background: #dddddd1f;
+		padding-bottom: 30px;
+	}
+
+	.blogswrapper h2 {
+		width: 92%;
+		font-size: 28px;
+		padding: 16px;
+	}
+
+	.blogswrapper p {
+		width: 85%;
+		font-size: 17px;
+		padding: 20px;
+	}
+
+	.blogswrapper a {
+		font-size: 18px;
+		padding: 20px;
+	}
+
+	.blogswrapper img {
+	}
+		
+	.blogpost:before {
+		display: none;
+	}
+
+
+	.cblogs:after {
+		display: none;
+	}
+
+	.blogpost:after {
+		display: none;
+	}
+
+	.footercontent {
+		width: 25%;
+		float: left;
+	}
+
+	.footerservice {
+		margin-top: 95px;
+		width: 22%;
+	}
+
+	.footerservice ul li {
+		text-align: center;
+		font-size: 15px;
+		margin-left: 0;
+	}
+
+	.footrcontact {
+		margin-top: 95px;
+		width: 32%;
+	}
+
+
+
+
+	.footrcontact span:nth-child(2) {
+		font-size: 15px;
+		margin: 0;
+	}
+
+	.footrcontact span:nth-child(3) {
+		font-size: 15px;
+		margin: 0;
+	}
+
+	.footerfollow {
+		margin-top: 95px;
+		width: 21%;
+		float: right;
+		text-align: center;
+	}
+
+	.copyrightarea {
+		width: 100%;
+	}
+
+	.copyrightext {
+		width: 50%;
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+		font-size: 15px;
+	}
+
+	.copyrightarea span {
+		text-align: center;
+		padding: 0;
+		font-size: 15px;
+	}
+
+
+	.footercontent p {
+		width: 100%;
+		font-size: 17px;
+	}
+
+	.footerservice h3 {
+		font-size: 23px;
+		margin-left: 13%;
+	}
+
+	.footrcontact h3 {
+		font-size: 23px;
+		margin-bottom: 20px;
+	}
+
+	.footrcontact span {
+		font-size: 15px;
+	}
+
+	.footerfollow h3 {
+		font-size: 23px;
+		margin-bottom: 30px;
+	}
+
+	.footerfollow i {
+		margin: 0;
+		font-size: 15px;
+	}
+
+
+	.icone {
+		width: 51%;
+		margin-left: 32%;
+		font-size: 18px;
+		padding-top: 35px;
+	}
+
+	.clientrevewiteam h3 {
+		font-size: 20px;
+	}
+
+	.clientrevewiteam p {
+		font-size: 18px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+
+	.clientrevewiteam i.fas.fa-quote-left {color: #fb5200;font-size: 40px;padding: 20px 0px;}
+
+
+	.copyrightext2 {
+		width: 50%;
+		text-align: center;
+		padding: 0px;
+		margin: 0px;
+	}
+		.blogpost {
+		}
+
+	.workprosesiteam {
+		width: 100%;
+	}
+
+	.workprosesiteamcon {
+		width: 100%;
+		margin-right: 8%;
+	}
+    
+
+
+	ul.workprosesiteamcon li {
+	margin-bottom: 25px;
+	font-size: 20px;
+	width: 33%;
+	}
+
+	.clientrevewiteam:last-child {
+	display: none;
+	}
+
+	
+.iconimg2 {
+    top: 26%;
+    width: 20%;
+}
+
+
+.iconimg3 {
+    width: 20%;
+    left: 20%;
+}
+
+.slidercontant h1 {
+    width: 100%;
+    line-height: 84px;
+    font-weight: 600;
+    font-size: 65px;
+}
+
+.iconimg {width: 26%;left: 50%;}
+
+.imaje {
+    display: none;
+}
+
+.mainmenu {
+    width: 100%;
+}
+
+a.icon {
+    display: block;
+}
+.nav-active{
+	transform:translatex(0%);
+	
+}
+
+
+.service {
+    width: 44%;
+    display: inline-block;
+}
+
+.service {width: 28%;float: revert;}
+
+.servicebox {
+	float:right;
+	width: 90%;
+}
+
+
+.service {margin-bottom: 40px;width: 43%;}
+
+.servicebox {width: 84%;}
+
+.coursedes {
+    width: 100%;
+}
+
+
+section#ourcourse {
+    margin: 70px 0px;
+}
+
+.workprosesiteam h4 {font-size: 35px;}
+
+.workprosesiteamcon li h4:before {
+    display: none;
+}
+
+.workprosesiteamcon span {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+.recentiteam img:nth-child(6) {margin-left: 0;padding-left: 0;float: left;}
+
+.recentiteam a {
+    display: none;
+}
+
+
+
+.iconimg5 {
+    width: 12%;
+}
+
+.iconimg9 {
+    width: 15%;
+}
+
+.iconimg7 {
+    width: 14%;
+    position: absolute;
+    left: 38%;
+    bottom: 0px;
+    transform: rotate(360deg);
+}
+
+
+
+
+.footercontent img {
+    display: none;
+}
+
+.footercontent h2 {
+    width: 100%;
+    font-size: 40px;
+}
+
+.cblogs:before {
+    display: none;
+}
+
+
+.iconimg6 {
+    width: 20%;
+    left: 70%;
+}
+
+
+
+	
+}
+
+
+@media(max-width: 850px){
+		header#topbar {
+			overflow: hidden;
+			margin-bottom: 30px;
+		}
+
+		section#ourservice {
+			margin-top: 160px;
+		}
+
+		.slidercontant h1 {
+			font-size: 55px;
+		}
+		.slidercontant p {
+			font-size: 18px;
+		}
+		button.slidercontactbtn {
+			padding: 16px 10px;
+			width: 26%;
+			text-align: center;
+			font-size: 14px;
+		}
+		
+		.service {
+			width: 40%;
+			margin-bottom: 50px;
+		}
+		.blogswrapper {
+			float: right;
+			width: 100%;
+			
+		}
+		.iconimg2 {
+			top: 26%;
+			width: 25%;
+			left: 65%;
+		}
+		.clientrevewiteam {
+			width: 75%;
+			margin-left: 10%;
+		}
+	.coursetitle{
+		margin-bottom: 50px;
+		width: 50%;
+	}
+	.blogpost {
+		}
+		.menu{
+		text-align: center;
+		width: 50%;
+		float: right;
+		margin-top: 32px;
+	}
+		ul.mainmenuitem li a{
+		font-size:20px;
+		display:block;
+		width:100%;
+	}
+	ul.mainmenuitem li{
+		display: none;
+		width:100%;
+	}
+ul.mainmenuitem li:last-child {
+    float: right;
+    display: block;
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+ul.mainmenuitem li:last-child:hover ul.mainmenuitem li {
+	display:block;
+	
+}
+
+	ul.workprosesiteamcon li {
+	margin-bottom: 25px;
+	font-size: 20px;
+	width: 49%;
+	}
+	ul.mainmenuitem .show{
+		left:0;
+	}
+
+	a.icon i.fas.fa-bars {
+		display:block;
+	}
+		.blogswrapper h2 {
+		width: 92%;
+		font-size: 28px;
+		padding: 0px 33px;
+	}
+	.blogswrapper p {
+		width: 85%;
+		font-size: 17px;
+		padding: 0px 35px;
+	}
+	.blogswrapper a {
+    font-size: 18px;
+    padding: 0px 35px;
+}
+		ul.mainmenuitem li{
+		width: 100%;
+		display: none;
+		margin: 14px 0px;
+		line-height:30px;
+	}
+		service img {
+			width: 25%;
+			left: 0px;
+			top: -48px;
+		}
+		.servicebox {
+		width: 84%;
+		}
+		.servicebox h3 {
+			font-weight: 500;
+			font-size: 19px;
+		}
+		.servicebox p {
+			font-size: 14px;
+		}
+		.service img {
+			width: 29%;
+			max-width: 100%;
+			position: absolute;
+			top: -10%;
+			left: 5%;
+		}
+		iconimg4 {
+			width: 21%;
+			position: absolute;
+			left: -20px;
+			top: 222px;
+		}
+		iframe {
+			width: 90%;
+			height: 400px;
+		}
+		.iconimg4 {
+			width: 16%;
+			position: absolute;
+			left: 2px;
+			top: 290px;
+		}
+		.projectmind h2 {
+			width: 90%;
+			font-size: 35px;
+			margin-left: 0;
+		}
+		.projectmind p {
+			width: 85%;
+			font-size: 17px;
+			line-height: 30px;
+		}
+		.iconimg6 {
+			width: 15%;
+		}
+		.iconimg7 {
+			width: 10%;
+		}
+		.iconimg9 {
+			width: 12%;
+		}
+		.clientrevewiteam i.fas.fa-quote-left {
+			font-size: 31px;
+			padding-bottom: 0;
+		}
+		.clientrevewiteam p {
+			line-height: 30px;
+			font-size: 18px;
+			font-weight: 600;
+		}
+		.clientrevewiteam h3 {
+			font-size: 17px;
+		}
+		.icone {
+			width: 48%;
+			margin-left: 5%;
+			font-size: 16px;
+		}
+		button.projectmindbtn {
+			width: 24%;
+			padding: 5px 10px;
+			text-align: center;
+		}
+
+
+
+		i.fas.fa-phone-square {
+			font-size: 15px;
+		}
+
+		.cblogs:before {
+			display: none;
+		}
+
+		section#ourcourse {
+			margin: 70px 0px;
+		}
+		
+
+		
+		.footercontent {
+		
+			width: 50%;
+			float: left;
+		}
+		.footerservice {
+			width: 50%;
+			margin-top: 60px;
+		}
+		.footrcontact {
+			float:left;
+			margin:0px;
+			width: 51%;
+			text-align: left;
+		}
+		.footerfollow {
+			width: 49%;
+			float: right;
+			text-align: center;
+			margin:0px;
+
+		}
+		
+		
+}
+
+
+
+
+@media(max-width: 650px){
+	
+		header#topbar {
+			overflow: hidden;
+			margin-bottom: 30px;
+		}
+
+		section#ourservice {
+			margin-top: 100px;
+		}
+			button.slidercontactbtn {
+		width: 30%;
+		text-align: center;
+		padding: 12px 10px;
+		}
+		.service img {
+			width: 27%;
+			top: -18%;
+			left: 7%;
+		}
+			.servicewrapper {
+			margin-bottom: 15px;
+		}
+			.service {
+			width: 65%;
+		}
+		.blogpost {
+		}
+			.iconimg4 {
+			top: 300px;
+			width: 17%;
+		}
+			button.projectmindbtn {
+			width: 27%;
+			text-align: center;
+			padding: 5px 4px;
+		}
+		.clientrevewiteam p {
+			font-size: 17px;
+			width: 90%;
+			margin: auto;
+		}
+		.clientrevewiteam {
+			width: 78%;
+			padding: 8px;
+		}
+		.icone {
+			width: 73%;
+			margin-left: -8%;
+		}
+		.footercontent {
+			float: left;
+			width: 50%;
+		}
+		.footerfollow {
+			width: 49%;
+			float: right;
+		}
+
+		.footrcontact {
+			width: 51%;
+			float: left;
+		}
+
+
+a.icon i.fas.fa-bars {
+    display: block;
+}
+
+}
+
+
+	
+@media(max-width: 550px){
+			.iconimg2 {
+			width: 30%;
+		}
+			.iconimg3 {
+			width: 30%;
+		}
+			button.slidercontactbtn {
+			width: 35%;
+			font-size: 13px;
+		}
+			.iconimg {
+			width: 42%;
+		}
+			.service {
+			width: 65%;
+		}
+				.iconimg4 {
+			top: 304px;
+			width: 20%;
+		}
+			.service img {
+			width: 28%;
+			top: -16%;
+			left: 6%;
+		}
+		.service {
+			width: 65%;
+		}
+			
+		.coursetitle {
+		width: 100%;
+		margin: auto;
+		}
+			
+		ul.workprosesiteamcon li {
+		width: 100%;
+		margin: auto;
+	   }
+		.iconimg9 {
+		width: 20%;
+	}
+		.iconimg7 {
+		width: 20%;
+	}
+		.iconimg6 {
+		width: 20%;
+	}
+		.iconimg5 {
+		width: 20%;
+	}
+		button.projectmindbtn {
+		width: 35%;
+		font-size: 13px;
+	}
+	.clientrevew {
+		width: 95%;
+	}
+		.footercontent p {
+			width: 100%;
+			font-size: 15px;
+		}
+	
+		.footrcontact span {
+			font-size: 12px;
+		}
+		.footrcontact span:nth-child(3) {
+			font-size: 12px;
+			width: 100%;
+			margin: 0;
+		}
+		.footrcontact span:nth-child(2) {
+			font-size: 13px;
+			margin: 0;
+		}
+
+
+
+		.icone {
+			width: 73%;
+			margin-left: 4%;
+		}
+		.blogswrapper h2 {
+		width: 83%;
+		font-size: 29px;
+		margin-bottom: 0px;
+		padding-bottom: 0px;
+	}
+	.clientrevewiteam p {
+		font-size: 15px;
+	}
+	.blogswrapper  {
+		margin-bottom:20px;
+		
+	}
+	.blogswrapper p {
+		width: 80%;
+		font-size: 15px;
+	}
+	.blogswrapper a {
+		font-size: 16px;
+	}
+			
+	.servicebm {margin-left: 7%;}
+		.copyrightext {
+		font-size: 13px;
+		}		
+		
+a.icon i.fas.fa-bars {
+    display: block;
+}
+	
+	
+}
+
+
+
+
+
+
+

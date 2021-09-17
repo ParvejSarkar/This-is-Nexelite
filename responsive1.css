@@ -1,0 +1,631 @@
+	
+
+@media(max-width: 450px){
+	
+	
+	body{
+		width: 127%;
+	}
+	.footrcontact span:nth-child(2) {
+		font-size: 14px;
+	}
+	.footercontent p {
+    font-size: 15px;
+	}
+
+	i.fas.fa-phone {
+		font-size: 15px;
+	}
+
+	.footrcontact span:nth-child(3) {
+		font-size: 14px;
+	}
+
+
+	.slidercontant h1 {
+		font-size: 44px;
+		width: 90%;
+	}
+
+	.slidercontant p {
+		font-size: 15px;
+		width: 82%;
+	}
+
+
+
+	i.fas.fa-envelope-square {
+		font-size: 15px;
+	}
+
+	.footrcontact span {
+		font-size: 14px;
+	}
+
+	i.fas.fa-home {
+		font-size: 15px;
+	}
+		.servicebox p {
+    font-size: 13px;
+}			
+		
+
+.servicewrapper {
+    width: 80%;
+}		
+		.logo {
+		width: 45%;
+	}
+	
+
+ul.mainmenuitem li:last-child {
+    left: 47%;
+}
+		
+	.iconimg2 {
+		width: 35%;
+	}
+		.iconimg3 {
+		width: 35%;
+	}
+		
+		.slidercontant {
+		width: 100%;
+	}
+		.slidercontant h1 {
+		width: 100%;
+		font-size: 39px;
+		line-height: 45px;
+	}
+	.slidercontant h1 span {
+		line-height: 45px;
+	}
+
+	.slidercontant p {
+		font-size: 15px;
+		width: 77%;
+	}
+	button.slidercontactbtn {
+		text-align: center;
+		font-size: 12px;
+		width: 37%;
+	}
+	.iconimg {
+		top: 80%;
+		left: 90%;
+		width: 60%;
+	}
+	.servicewrapper h2 {
+		width: 80%;
+		font-size: 29px;
+	}
+	.servicewrapper span {
+		font-size: 16px;
+	}
+	.service img {
+    width: 37%;
+    top: -35px;
+	}
+	.iconimg4 {
+		top: 250px;
+		width: 30%;
+	}
+
+	iframe {
+		height: 350px;
+	}
+	ul.workprosesiteamcon {
+		margin-left: -13%;
+	}
+	ul.recentworkmenuiteam {
+		width: 90%;
+	}
+	.recentiteam img {
+		width: 100%;
+		max-width: 90%;
+	}
+	.iconimg5 {
+		width: 25%;
+	}
+	.iconimg6 {
+		transform: rotate(45deg);
+		width: 25%;
+		left: 60%;
+	}
+	.iconimg7 {
+		width: 25%;
+	}
+	.iconimg9 {
+		width: 25%;
+	}
+	button.projectmindbtn {
+		padding: 10px 8px;
+		width: 37%;
+		font-size: 13px;
+		text-align: center;
+	}
+
+	.clientrevewiteam {
+		width: 76%;
+	}
+	.clientrevew img {
+		margin-left: 10px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.clientrevewiteam h3 {
+		font-size: 13px;
+	}
+	.icone {
+		width: 75%;
+		font-size: 13px;
+		margin-left: 1%;
+	}
+
+	.clientrevewiteam p {
+		font-size: 13px;
+		width: 80%;
+	}
+	.clientrevewiteam i.fas.fa-quote-left {
+		font-size: 28px;
+	}
+		.clientrevewiteam:last-child {
+		width: 79%;
+		margin-left: 0px;
+	}
+		.blogswrapper p {
+		font-size: 14px;
+	}
+		.blogswrapper a {
+		margin-left: 0px;
+		font-size: 14px;
+	}
+	.footercontent {
+		width: 100%;
+	}
+	.footercontent {
+		width: 100%;
+	}
+	.footerservice ul li {
+		text-align: left;
+	}
+	.footrcontact {
+		width: 100%;
+	}
+	.footercontent p {
+		font-size: 15px;
+	}
+	.footercontent h2 {
+		font-size: 35px;
+	}
+	.footerfollow {
+		width: 100%;
+		text-align: left;
+	}
+		.copyrightext {
+		margin-bottom: 7px;
+		font-size: 10px;
+		width: 100%;
+	}
+	.footerservice h3 {
+		text-align: left;
+		margin-left: 0px;
+	}
+	.copyrightext2 {
+		width: 100%;
+		font-size: 10px;
+	}
+	.blogpost {
+    width: 100%;
+    padding: 40px;
+}
+	.blogswrapper h2 {
+		padding:10px;
+	}
+.blogswrapper p {
+		padding:10px;
+	}
+
+
+			
+
+	
+}
+	
+	
+	
+	
+	
+@media(max-width: 300px){
+			
+			.logo {
+			
+			width: 80%;
+		}
+			.iconimg2 {
+			top: 18%;
+			width: 85%;
+		}
+			.iconimg3 {
+			top: 37%;
+			width: 80%;
+			left: 0;
+		}
+			.homeslider {
+			padding: 0;
+			margin: 0;
+			width: 100%;
+		}
+			.slidercontant {
+			width: 100%;
+			margin: 0;
+			padding: 0;
+		}
+			.slidercontant h1 span {
+			line-height: 40px;
+		}
+			.slidercontant h1 {
+			width: 100%;
+			float: left;
+			padding: 0;
+			font-size: 32px;
+			line-height: 40px;
+		}
+			.iconimg {
+			top: 85%;
+			width: 100%;
+			left: 40%;
+		}
+	
+
+		.slidercontant p {
+			font-size: 10px;
+		}
+			
+		button.slidercontactbtn {
+			text-align: center;
+			width: 45%;
+		}
+
+		.servicewrapper {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			text-align: center;
+		}
+
+		.servicewrapper h2 {
+			width: 100%;
+			text-align: left;
+			font-size: 29px;
+			margin-bottom: 40px;
+		}
+
+		.servicewrapper span {
+			font-size: 14px;
+		}
+			
+
+
+		.service {
+			width: 100%;
+		}
+
+		.service img {
+			left: 5%;
+			width: 32%;
+			top: -22%;
+		}	
+		.servicebox {
+			padding: 15px;
+			text-align: left;
+			width: 95%;
+			margin: auto;
+		}
+
+		.servicebox h3 {
+			width: 90%;
+			margin: auto;
+			font-size: 18px;
+			padding: 18px 0px;
+		}
+
+		.servicebox p {
+			font-size: 11px;
+			margin: auto;
+			width: 90%;
+		}
+
+
+		iframe {
+			margin-bottom: 55px;
+			width: 90%;
+			height: 285px;
+		}
+
+		.iconimg4 {
+			width: 50%;
+			left: 0;
+			top: 85px;
+		}	
+			.coursetitle {
+			width: 100%;
+			margin-bottom: 25px;
+		}
+			.coursetitle h2 {
+			margin-left: 35%;
+		}
+			.coursetitle span {
+			font-size: 20px;
+		}
+			ul.workprosesiteamcon li {
+			margin-left: -18%;
+			width: 100%;
+		}
+			
+		.servicewrapper h2 {
+			margin-left: 1%;
+			text-align: center;
+			margin-bottom: 55px;
+		}
+
+
+		ul.recentworkmenuiteam {
+			width: 90%;
+			padding-left: 0;
+			margin-left: 11%;
+			float: left;
+			display: inline;
+		}
+
+		ul.recentworkmenuiteam li {
+			display: inline;
+			float: left;
+			padding-right: 5px;
+			font-size: 19px;
+			margin: 0;
+			padding-left: 21px;
+		}	
+			.recentiteam img {
+			margin-bottom: 20px;
+			width: 100%;
+			max-width: 100%;
+		}
+
+
+		.iconimg5 {
+			width: 40%;
+			top: 20%;
+		}
+
+		.iconimg9 {
+			width: 30%;
+		}
+
+		.iconimg7 {
+			width: 40%;
+			top: 0;
+			left: 50%;
+		}
+
+		.iconimg6 {
+			width: 33%;
+			left: 39%;
+			top: 71%;
+			transform: rotate(45deg);
+		}
+		.clientrevewiteam:last-child {
+			width: 69%;
+			padding: 23px;
+		}
+		button.projectmindbtn {
+			width: 40%;
+			text-align: center;
+			padding: 6px 10px;
+			font-size: 10px;
+		}	
+			
+
+		.clientrevewiteam {
+			width: 69%;
+			padding: 23px;
+			margin-left: 0;
+			margin-bottom: 20px;
+		}
+
+		.clientrevew {
+			width: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		.projectmind p {
+			font-size: 14px;
+		}
+		.projectmind h2 {
+			font-size: 31px;
+			line-height: 35px;
+		}
+		.clientrevew img {
+			width: 45px;
+			height: 45px;
+			margin-left: 0px;
+			margin-top: 18px;
+		}
+			.clientrevewiteam p{
+				width: 90%;
+				font-size: 10px;
+				text-align: center;
+				line-height: 17px;
+			}
+			
+			
+
+		i.fas.fa-quote-left {
+			margin: 0;
+			padding: 0;
+			font-size: 20px;
+		}
+
+		.icone {
+			margin-top: 5px;
+			margin-left: 30%;
+			width: 50%;
+			font-size: 9px;
+		}
+
+
+
+		.clientrevewiteam h3 {
+			font-size: 16px;
+			width: 63%;
+			float: right;
+		}	
+			
+
+
+		.clientrevewiteam h3 {
+			font-size: 12px;
+			width: 57%;
+			float: right;
+			text-align: left;
+		}
+			
+
+		.blogswrapper h2 {
+			font-weight: 500;
+			font-size: 23px;
+			width: 90%;
+			margin-left: 7%;
+		}
+
+		.blogswrapper p {
+			font-size: 12px;
+			padding-top: 0px;
+			text-align: left;
+			width: 91%;
+			margin-left: 5%;
+			line-height: 26px;
+		}
+
+		.blogswrapper a {
+			font-size: 13px;
+			width: 100%;
+			margin-left: 0px;
+		}
+
+		.blogswrapper {
+			height: auto;
+			margin-bottom: 10px;
+		}
+			
+
+		.footercontent {
+			width: 100%;
+		}
+
+		.footercontent h2 {
+			font-size: 30px;
+		}
+
+		.footercontent p {
+			font-size: 16px;
+		}
+
+		.footerservice {
+			width: 100%;
+			float: left;
+			text-align: left;
+		}
+
+		.footerservice h3 {
+			font-size: 20px;
+			margin-left: 0;
+		}
+
+		.footerservice ul li {
+			font-size: 14px;
+			text-align: left;
+			margin-left: -10%;
+		}
+
+		.footrcontact {
+			width: 100%;
+		}
+
+		.footrcontact h3 {
+			font-size: 20px;
+		}
+
+		.footerfollow h3 {
+			font-size: 18px;
+			margin-left: 0%;
+		}
+			
+
+		.footerfollow i {
+			padding-right: 5%;
+			font-size: 15px;
+		}
+			
+
+		.copyrightext {
+			width: 100%;
+			font-size: 11px;
+			margin-bottom: 3px;
+		}
+
+		.copyrightext2 {
+			width: 100%;
+			font-size: 11px;
+		}
+
+
+		.container {
+			width: 80%;
+			margin-left: 17%;
+		}
+
+		header#topbar {
+			width: 100%;
+		}
+
+
+		.iconimg3 {
+			width: 85%;
+		}
+			ul.workprosesiteamcon {
+			margin-left: 0px;
+		}
+		.service {
+			width: 70%;
+		}
+
+		.service img {
+			width: 35%;
+			top: -17%;
+			left: 0;
+		}
+
+		i.fas.fa-phone-square {
+			font-size: 12px;
+		}
+			.workprosesiteamcon span {
+			font-size: 15px;
+		}
+			.footrcontact span:nth-child(2) {
+			font-size: 13px;
+		}
+			.footrcontact span:nth-child(3){
+					font-size: 13px;
+			}
+			
+
+.footrcontact span {
+    font-size: 13px;
+}
+	
+	
+}
+
